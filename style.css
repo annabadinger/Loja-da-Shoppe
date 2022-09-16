@@ -2,11 +2,9 @@
 	width: 100%;
 }
 
-body(
+body {
    
-  
-
-background: grey;
+  background: grey;
   margin: 0;
   padding: 0;
 }
