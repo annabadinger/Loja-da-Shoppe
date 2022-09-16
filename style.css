@@ -2,9 +2,9 @@
 	width: 100%;
 }
 
-body{hsl(358, 100%, 47%)
+body(
    
-  background: hsl(358, 100%, 47%)
+  background:
   margin: 0;
   padding: 0;
 } 
