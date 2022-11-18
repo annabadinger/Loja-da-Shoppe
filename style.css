@@ -22,7 +22,11 @@ nov a:hover{
 #banner {
 	width: 100%;
 }
+nav a:hover{
+  color: black;
+  text-decoration: underline;
 
+}
 body {
    
   background: rgb(245, 6, 6);
